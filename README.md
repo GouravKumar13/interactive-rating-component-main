@@ -4,4 +4,4 @@
 
 ## Welcome! 👋
 
-https://interactivefeedback.netlify.app/
+https://intractiveratingcomponent.netlify.app/
